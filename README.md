@@ -1,6 +1,6 @@
 # 🍮 Pudding
 
-<img width="1280" height="800" alt="slide_1_home" src="https://github.com/user-attachments/assets/56d6a9ff-b59d-4d4d-9adb-44828c494b1f" />
+<img width="100%" alt="slide_1_home" src="https://github.com/user-attachments/assets/56d6a9ff-b59d-4d4d-9adb-44828c494b1f" />
 
 **Watch your words come to life**
 
@@ -30,7 +30,7 @@ Play back at 0.5x, 1x, 2x, or 5x speed to review your work at your own pace.
 ### 🎯 Timeline Scrubbing
 Jump to any point in your editing history with the interactive timeline scrubber.
 
-<img width="1280" height="800" alt="slide_2_home" src="https://github.com/user-attachments/assets/e96dc617-0d11-4a7b-a07f-dd80073e0157" />
+<img  width="100%" alt="slide_2_home" src="https://github.com/user-attachments/assets/e96dc617-0d11-4a7b-a07f-dd80073e0157" />
 
 ---
 
@@ -47,7 +47,7 @@ Jump to any point in your editing history with the interactive timeline scrubber
 
 Pudding is completely local. Your documents never leave your Mac. We don't collect any data, use analytics, or require an internet connection. Read our full [Privacy Policy](PRIVACY_POLICY.md).
 
-<img width="1280" height="800" alt="slide_3_home" src="https://github.com/user-attachments/assets/ba77ddf4-4539-4c22-9cf7-90724c76100f" />
+<img  width="100%"  alt="slide_3_home" src="https://github.com/user-attachments/assets/ba77ddf4-4539-4c22-9cf7-90724c76100f" />
 
 ---
 
@@ -58,11 +58,11 @@ Pudding is completely local. Your documents never leave your Mac. We don't colle
 
 ---
 
-<img width="1280" height="800" alt="slide_4_home" src="https://github.com/user-attachments/assets/634b4e5c-2ae2-47da-a3b5-29e8217a3199" />
+<img  width="100%"  alt="slide_4_home" src="https://github.com/user-attachments/assets/634b4e5c-2ae2-47da-a3b5-29e8217a3199" />
 
 ## Built for Trust
 
-<img width="1280" height="800" alt="slide_5_home" src="https://github.com/user-attachments/assets/524fc091-50cf-4c42-b4f2-0582a1bbac18" />
+<img  width="100%"  alt="slide_5_home" src="https://github.com/user-attachments/assets/524fc091-50cf-4c42-b4f2-0582a1bbac18" />
 
 
 © 2024 Pudding. All rights reserved.
